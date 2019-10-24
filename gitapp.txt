@@ -6,3 +6,4 @@ and
 
 
 this is the first game,but not first app.
+we went get code from next view;
